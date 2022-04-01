@@ -1,2 +1,1 @@
-# likelion
-likelion hw 
+# likelion ewha - 1st work
